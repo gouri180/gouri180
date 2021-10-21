@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gouri180
-- 👀 I’m interested in ...python,data analytics
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...data analytic,machine learining
+- 🌱 I’m currently learning .machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
