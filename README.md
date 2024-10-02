@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @gouri180
-- 👀 I’m interested in ...data analytic,machine learining
-- 🌱 I’m currently learning .machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Gourinath
+- 👀Computer Vision Engineer
+- 🌱 Active research areas: Computer vision , Deep learning , Object detection, Ocr, Model Deployment
+- 📫 How to reach me :
+                      Mail: gourinath.cs21@duk.ac.in
+                      linkedin: https://www.linkedin.com/in/gourinath-h-s-33b41415a/
 
 <!---
 gouri180/gouri180 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
