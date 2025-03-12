@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gourinath
 - 👀Computer Vision Engineer
-- 🌱 Active research areas: Computer vision , Deep learning , Object detection, Ocr, Model Deployment
+- 🌱 Active research areas: Computer vision , Deep learning , Object detection, Ocr, Model Deployment, Deep RL
 - 📫 How to reach me :
                       Mail: gourinath.cs21@duk.ac.in
                       linkedin: https://www.linkedin.com/in/gourinath-h-s-33b41415a/
